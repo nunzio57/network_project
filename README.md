@@ -8,9 +8,17 @@ The work implements static, service-based, and dynamic network slicing in an SDN
 The network topology is illustrated in the figure below:
 ![Network Topology](topology.png)
 
-
+---
+## Technologies Used
+- Python 3
+- Ryu SDN Framework (OpenFlow 1.3)
+- Mininet
+- Open vSwitch (OVS) with QoS
+- Wireshark
+- iperf3
 
 ---
+
 
 ## Overview
 
@@ -52,3 +60,4 @@ Features:
 - dynamic enable/disable of upper-slice sharing  
 - queue-based prioritization  
 - reactive rule installation
+
