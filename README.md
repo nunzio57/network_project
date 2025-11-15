@@ -5,7 +5,7 @@ M.Sc. in Computer Engineering — University of Naples Federico II (A.Y. 2024/20
 
 This repository contains the project developed for the *Network and Cloud Infrastructures* course.  
 The work implements static, service-based, and dynamic network slicing in an SDN environment using Mininet as the network emulator and Ryu as the SDN controller.
-The topology is shown in the image.
+The network topology is illustrated in the figure below:
 ![Network Topology](topology.png)
 
 
